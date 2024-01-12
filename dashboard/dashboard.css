@@ -168,6 +168,7 @@ color:rgb(252, 252, 252);
         margin-bottom: 20px;
         margin-right: 20px;
         color: white;
+        text-decoration:none;
         background: rgb(29,26,57);
         background: linear-gradient(0deg, rgba(29,26,57,1) 0%, rgba(69,25,82,1) 42%, rgba(102,37,73,1) 100%);
         box-shadow: -10px  10px  2px  rgb(94, 13, 141,0.5);
@@ -211,6 +212,7 @@ color:rgb(252, 252, 252);
     .date-info:hover{
       width: 80%;
       text-align: center;
+      text-decoration:none;
       border-radius: 40px;
       margin-bottom: 20px;
       margin-right: 20px;
