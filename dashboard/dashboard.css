@@ -60,6 +60,7 @@ color: white;
 
 }    
 .day{
+text-decoration:none;
 display: flex;
 flex-wrap: wrap;
 color:white;
@@ -179,6 +180,7 @@ color:rgb(252, 252, 252);
                         margin: 10px 10px;
                         font-size: 30px;
                         padding-left: 10px;
+                        text-decoration:none;
                     }
 
                 .date{
